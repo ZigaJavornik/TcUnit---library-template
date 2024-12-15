@@ -1,0 +1,3 @@
+﻿Standard PLC Template.plcproj|0|Standard PLC Project|1|Creates a new TwinCAT PLC project containing a task and a program.|0|0|0|0
+Empty PLC Template.plcproj|0|Empty PLC Project|2|Creates an empty PLC project. Use this template for library projects.|0|0|0|0
+Tests template.plcproj|0|Library with unit tests template|3|Creates a project template for library creation and testing using the TcUnit Framework.|0|0|0|0
